@@ -1,5 +1,5 @@
-# 20211114
-- SimpleLink SDK 5.30.00.56 ([changelog](https://software-dl.ti.com/simplelink/esd/simplelink_cc13xx_cc26xx_sdk/5.30.00.56/exports/changelog.html))
+# 20211207
+- SimpleLink SDK 5.30.01.01 ([changelog](https://software-dl.ti.com/simplelink/esd/simplelink_cc13xx_cc26xx_sdk/5.30.01.01/exports/changelog.html))
 - Increase memory heap
 - Turn on/off leds when joining is enabled/disabled
 - Fix Xiaomi E1 devices not (fully) working
